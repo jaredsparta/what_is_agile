@@ -76,7 +76,6 @@
 3. **Product Increment**
     - After every Sprint, the team must complete a version of the product that is potentially able to be released. If releasable, it must meet the DOD (definition of done).
 
-    ![](images/ag2.png)
 
 <br>
 
@@ -85,18 +84,29 @@
     - The Scrum team collaborates and discusses their expectations for what should be achieved during the sprint.
     - Involves the entire Scrum Team (PO, SM and the DT).
     - Should be a maximum of 8 hours, usually two hours for every one week of a sprint's length. This happens before every sprint starts.
+    - Questions posed:
+        1. "What can be delivered during this sprint?"
+        2. "How will we accomplish that work?"
 2. **Daily Scrum**
     - This is a daily meeting, usually for 15 minutes, to chart progress towards the Sprint goal. This is an opportunity for the DT to inspect and adapt the product and process on a daily basis.
     - The DT members must attend but optional for both the SM (usually attends) and the PO.
+    - Questions posed:
+        1. "How is the progress going?"
+        2. "Any blockers from yesterday?"
 3. **Sprint Review**
     - Focuses on the current iteration of the product. Stakeholders are invited and the DT discuss what happened during the development process in that Sprint. The product backlog is changed as necessary.
     - The entire Scrum team attends (PO, SM and the DT). Other stakeholders and other affected departments are also invited since this allows for more thorough and diverse feedback.
     - Rule of thumb is to allow one hour of sprint review per one week of a sprint's length.
+    - Questions posed:
+        1. "What happened during this sprint?"
+        2. "Any big blockers?"
 4. **Sprint Retrospective**
     - A discussion for the Scrum team about what went right and where they could improve. They will plan improvements they can implement.
     - Should be attended by both the DT and the SM, the PO is recommended to come bt not mandatory attendees.
     - Rule of thumb is to allow 45 minutes for every one week of a sprint's length.
-
+    - Questions posed:
+        1. "What problems did we have this sprint that we can try to avoid next time?"
+        
 <br>
 
 **How have we implemented Agile?**
@@ -115,6 +125,8 @@
     - Trying different approaches i.e. "if we do this, what could possibly happen?"
 
 <br>
+
+![](images/ag2.png)
 
 **What is an epic story?**
 - An agile epic is a workload that can be broken down into smaller tasks called stories. They are broken down based on the specific needs of the customer or user.
